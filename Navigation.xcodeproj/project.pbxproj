@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2C1F1FA12E2005BA00F1EA96 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1F1FA02E2005BA00F1EA96 /* ThirdView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		2C1F1F902E1FFF3500F1EA96 /* Navigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Navigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C1F1FA02E2005BA00F1EA96 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		2C1F1F872E1FFF3500F1EA96 = {
 			isa = PBXGroup;
 			children = (
+				2C1F1FA02E2005BA00F1EA96 /* ThirdView.swift */,
 				2C1F1F922E1FFF3500F1EA96 /* Navigation */,
 				2C1F1F912E1FFF3500F1EA96 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C1F1FA12E2005BA00F1EA96 /* ThirdView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
